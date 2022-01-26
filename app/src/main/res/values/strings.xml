@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">The Movie Catalogue</string>
+    <string name="image">image</string>
+    <string name="movie">Movie</string>
+    <string name="language">Language</string>
+    <string name="about_me">About App</string>
+    <string name="localization">Localization</string>
+    <string name="change_language">Change Language</string>
+    <string name="empty_movie_catalogue">Empty Movie Catalogue</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="genre_ex_action_comedy_sci_fi">Genre, ex: Action, Comedy, Sci-Fi</string>
+    <string name="input_release_date">Input Release Date</string>
+    <string name="choose_movie_cover">Choose Movie Cover</string>
+    <string name="update_movie">Update Movie</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="release_date">Release Date:</string>
+    <string name="description">Description</string>
+    <string name="new_movie_catalogue">New Movie Catalogue</string>
+    <string name="upload_movie">Upload Movie</string>
+    <string name="empty_title">Sorry, Title must be filled</string>
+    <string name="empty_desc">Sorry, Description must be filled</string>
+    <string name="empty_genre">Sorry, Genre must be filled</string>
+    <string name="input_date_release">Input Release Date</string>
+    <string name="empty_date_release">Sorry, Release Date must be filled</string>
+    <string name="update_movie_desc">Successfully update movie in catalogue!.</string>
+    <string name="confirm_delete">Confirm Delete Movie</string>
+    <string name="confirm_delete_desc">Are you sure want to delete this movie ?</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="delete_movie_success">Successfully delete movie in catalogue!.</string>
+    <string name="empty_dp">Sorry, Movie Cover must be choose</string>
+    <string name="upload_new_movie">Upload New Movie</string>
+    <string name="upload_new_movie_desc">Successfully upload new movie in catalogue!.</string>
+    <string name="about_app">About App</string>
+    <string name="movie_catalogue">Movie Catalogue</string>
+
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Bahasa Indonesia</item>
+    </string-array>
+
+</resources>

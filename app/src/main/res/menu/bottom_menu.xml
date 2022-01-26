@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/movie"
+        android:title="@string/movie"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="#673AB7"
+        android:icon="@drawable/ic_baseline_local_movies_24"
+        app:cnb_iconColor="@color/white" />
+
+    <item
+        android:id="@+id/language"
+        android:title="@string/language"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="#673AB7"
+        android:icon="@drawable/ic_baseline_language_24"
+        app:cnb_iconColor="@color/white" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_me"
+        app:cnb_textColor="@color/white"
+        app:cnb_backgroundColor="#673AB7"
+        android:icon="@drawable/ic_baseline_info_24"
+        app:cnb_iconColor="@color/white" />
+
+
+
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_catalogue">
+
+    <fragment
+        android:id="@+id/navigation_catalogue"
+        android:name="com.project.themoviecatalogue.catalogue.CatalogueFragment"
+        android:label="Catalogue"
+        tools:layout="@layout/fragment_catalogue" />
+
+    <fragment
+        android:id="@+id/navigation_language"
+        android:name="com.project.themoviecatalogue.language.LanguageFragment"
+        android:label="Language"
+        tools:layout="@layout/fragment_language" />
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="com.project.themoviecatalogue.about_me.AboutFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_about" />
+</navigation>

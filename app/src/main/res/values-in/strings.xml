@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie Catalogue</string>
+    <string name="image">image</string>
+    <string name="movie">Film</string>
+    <string name="language">Bahasa</string>
+    <string name="about_me">Tentang Aplikasi</string>
+    <string name="localization">Lokalisasi</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="empty_movie_catalogue">Katalog Film Kosong</string>
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="genre_ex_action_comedy_sci_fi">Genre, contoh: Action, Comedy, Sci-Fi</string>
+    <string name="input_release_date">Input Release Date</string>
+    <string name="choose_movie_cover">Pilih Cover Film</string>
+    <string name="update_movie">Perbarui Film</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="release_date">Tanggal Rilis:</string>
+    <string name="description">Deskripsi</string>
+    <string name="new_movie_catalogue">Katalog Film Baru</string>
+    <string name="upload_movie">Unggah Film</string>
+    <string name="empty_title">Maaf, Judul film harus diisi</string>
+    <string name="empty_desc">Maaf, Deskripsi film harus diisi</string>
+    <string name="empty_genre">Maaf, Genre film harus diisi</string>
+    <string name="input_date_release">Input Release Date</string>
+    <string name="empty_date_release">Maaf, Tanggal rilis film harus diisi</string>
+    <string name="update_movie_desc">Sukes memperbarui film!.</string>
+    <string name="confirm_delete">Konfirmasi Menghapus Film</string>
+    <string name="confirm_delete_desc">Apakah anda yakin ingin menghapus film ini ?</string>
+    <string name="delete_movie">Menghapus Film</string>
+    <string name="delete_movie_success">Sukses menghapus film dari katalog.</string>
+    <string name="empty_dp">Maaf, Cover film harus dipilih</string>
+    <string name="upload_new_movie">Unggah Film Baru</string>
+    <string name="upload_new_movie_desc">Sukses mengunggah film baru!.</string>
+    <string name="about_app">Tentang Aplikasi</string>
+    <string name="movie_catalogue">Katalog Film</string>
+</resources>
